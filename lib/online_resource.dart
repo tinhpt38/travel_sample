@@ -1,0 +1,18 @@
+final String dev_logo ="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/70470251_421584151809224_6335796138557308928_n.png?_nc_cat=106&_nc_oc=AQk2BPeDAPOJAYaiw77AG5y2DxrwH0y9LXqHMZHaNdwBZ6jkcTXbJESZyO-Z46TnQTZR0hp4Xjzbt_rSGaXHTAGz&_nc_ht=scontent.fsgn2-3.fna&oh=0595956dddb5d3e40bf8910723ab7999&oe=5E0A68AD";
+final String lorem = '''Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ''';
+final String double_arrow = "https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/69907831_513346316094966_5721294190898315264_n.png?_nc_cat=101&_nc_oc=AQm7bnjOX1j4Un9WAN0zFWmwUkgDf3orYNXqLjXrP-q-2waHvjqHaaXaVwE9vS1HdBMhS1JL7LlnXsw-Be8xh1bf&_nc_ht=scontent.fsgn2-4.fna&oh=4e6ab921d070e33ad97f6c8143c3e957&oe=5DFB9252";
+final String arrow_white = "https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/69891341_442126186511028_8449617417734193152_n.png?_nc_cat=110&_nc_oc=AQnTefAUF8q_1A-YmLuVYK5W822CbsBerpCFOVnhmxpScWm7v5kHlxRbqTjUimoi4vV84_ZA61mREHQNOstfoPPj&_nc_ht=scontent.fsgn2-3.fna&oh=efabfb4b2813db0d1054211911f0e3c3&oe=5DF046EA";
+final String arrow_down = "https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/69891005_1340374276121298_3948336342559096832_n.png?_nc_cat=106&_nc_oc=AQngYdd9uyChfhTmBHOw9II76f9uhdKQDYUg5jrHysBbdew7Mq0k8HKbdd5DcFQ2ycaR1wRXsatdTkDgLg4IwOmp&_nc_ht=scontent.fsgn2-3.fna&oh=950f7dc2770086496beecd262fda033a&oe=5E053100";
+
+final List<String> image_links = [
+  "https://images.pexels.com/photos/2307939/pexels-photo-2307939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "https://images.pexels.com/photos/1287138/pexels-photo-1287138.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+  "https://images.pexels.com/photos/355241/pexels-photo-355241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "https://images.pexels.com/photos/1837593/pexels-photo-1837593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "https://images.pexels.com/photos/2404007/pexels-photo-2404007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"];
+
+final List<String> navi_title = ["ABOUT","SERVICE","TEAM","CONTACT"];
+final String search_icon = "https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.15752-9/69899745_605932053271165_4553013672787574784_n.png?_nc_cat=111&_nc_oc=AQm3Y5BcP0K63O9CJ5SNSMVoVNQrj_fzpcjJ13Nd4oVTtin4Pa5KS7wk8Z6hnU7VPwbYyUZPDC1Ktc2gld7RV-Xy&_nc_ht=scontent.fsgn2-1.fna&oh=0a407a3ba89f6918fc6aabf28c3c5857&oe=5DF2A2F3";
+final String delide_mathematical_single = "https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/70474935_235411210712386_8920078909748281344_n.png?_nc_cat=108&_nc_oc=AQnrrJE-gYxkiD8BerEKfvro3K2-mjvddFFgzQqDFKU4v5m9DCFeLJ4ElpALUwBoyujEZxcK1KfCLh1T4g4L_Awz&_nc_ht=scontent.fsgn2-3.fna&oh=39114715b68468821da4cab21385dbb6&oe=5E008841";
+
+final String lili_logo = "https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/64956166_2787159648024957_4480231715335307264_n.png?_nc_cat=108&_nc_oc=AQn-PDb4FUmBqBKmQBtTdtLq0GYxF_oE9MXpxmxtNDIQ-8shG5gklbk3qJylKIyc0kAL5yRGhemsmG3wI7oyxoOO&_nc_ht=scontent.fsgn2-3.fna&oh=2b9b61a4b3a3ea2f55290f372bf894e1&oe=5DF68CD0";
